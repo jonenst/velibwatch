@@ -1,0 +1,13 @@
+<?xml version='1.0' ?>
+
+<t:chloe xmlns:t="http://factorcode.org/chloe/1.0">
+
+	<t:title>VelibWatch</t:title>
+
+    <t:a t:href="$velibwatch-app/consult/" >
+        Je consulte
+    </t:a>
+    <t:a t:href="$velibwatch-app/report/" >
+        Je signale
+    </t:a>
+</t:chloe>

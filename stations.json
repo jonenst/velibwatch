@@ -1,0 +1,6833 @@
+[
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 5,
+    "station": {
+      "dueDate": 1514541460,
+      "type": "yes",
+      "code": "10021",
+      "name": "Marché Saint-Quentin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.354511445637388,
+        "latitude": 48.877356057652264
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "14034",
+      "name": "Ouest - Château ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.319392143923804,
+        "latitude": 48.83617286014242
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 14,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511875273,
+      "type": "yes",
+      "code": "16015",
+      "name": "Bassano -  Iéna",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.296149600985935,
+        "latitude": 48.868144510482075
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 14
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 2,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516057224,
+      "type": "yes",
+      "code": "20119",
+      "name": "Square des Saint-Simoniens",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3967273,
+        "latitude": 48.8701796
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 5,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 13,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 18,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1512644152,
+      "type": "yes",
+      "code": "9026",
+      "name": "Jean-Baptiste Pigalle - La Bruyere",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.333709173337285,
+        "latitude": 48.87939826447722
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 38,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511790042,
+      "type": "yes",
+      "code": "13028",
+      "name": "Gouthière - Poterne des Peupliers",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.351342,
+        "latitude": 48.820507
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 38
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514541535,
+      "type": "yes",
+      "code": "9016",
+      "name": "Choron - Martyrs",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3396701365709305,
+        "latitude": 48.877851443502536
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1512656021,
+      "type": "yes",
+      "code": "11039",
+      "name": "Richard Lenoir - Jean-Pierre Timbaud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.369337074966926,
+        "latitude": 48.86580427668637
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 16,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1512642372,
+      "type": "yes",
+      "code": "2013",
+      "name": "Favart - Italiens",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.338290105850787,
+        "latitude": 48.87144635392104
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 16
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1516662025,
+      "type": "yes",
+      "code": "8046",
+      "name": "Marceau - Président Wilson",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3002513,
+        "latitude": 48.8652359
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511795825,
+      "type": "yes",
+      "code": "20027",
+      "name": "Porte de Ménilmontant",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.40932246879487,
+        "latitude": 48.8691543609174
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 13,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514546502,
+      "type": "yes",
+      "code": "17018",
+      "name": "Parc Monceau",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3095492646098137,
+        "latitude": 48.88107791412864
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 42,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1512659897,
+      "type": "yes",
+      "code": "16012",
+      "name": "Flandrin - Longchamp",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.274354539176829,
+        "latitude": 48.86877849178477
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 36,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 42
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516230021,
+      "type": "yes",
+      "code": "19115",
+      "name": "Porte de la Villette",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.386150136590004,
+        "latitude": 48.89835196548483
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 4,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 15,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517483072,
+      "type": "yes",
+      "code": "9034",
+      "name": "Godot de Mauroy - Madeleine",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.326347,
+        "latitude": 48.869789
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1515020432,
+      "type": "yes",
+      "code": "19020",
+      "name": "Goubet - Darius Milhaud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.390209687445294,
+        "latitude": 48.88466206560529
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "15113",
+      "name": "Arsonval Falguière",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.313117867297474,
+        "latitude": 48.84040040365445
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 28,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1516230038,
+      "type": "yes",
+      "code": "10006",
+      "name": "Petites Ecuries - Faubourg Saint-Denis",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3539475351572037,
+        "latitude": 48.87295368099433
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1512654342,
+      "type": "yes",
+      "code": "10005",
+      "name": "Petites Ecuries - Faubourg Poissonnière",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.348388757504776,
+        "latitude": 48.87397217237368
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 2,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1511786123,
+      "type": "yes",
+      "code": "5107",
+      "name": "Pontoise - La Tournelle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.352454275492188,
+        "latitude": 48.85045800918843
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1515020419,
+      "type": "yes",
+      "code": "11003",
+      "name": "Keller - La-Roquette",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3752778,
+        "latitude": 48.8555508
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 39,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 4,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "8029",
+      "name": "Place du Canada",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.310193787964762,
+        "latitude": 48.865346269362675
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 14,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266839,
+      "type": "yes",
+      "code": "14013",
+      "name": "Liard - Amiral Mouchez",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.342167,
+        "latitude": 48.8214169
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 14
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1515020403,
+      "type": "yes",
+      "code": "14108",
+      "name": "Le Brix et Mesmin-Jourdan",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.327861653302471,
+        "latitude": 48.82234096593411
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514541500,
+      "type": "yes",
+      "code": "9009",
+      "name": "Square Montholon",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3457641154527664,
+        "latitude": 48.876620377545024
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266838,
+      "type": "yes",
+      "code": "19007",
+      "name": "Flandre - Ourcq",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3790915682911873,
+        "latitude": 48.89260159189023
+      }
+    },
+    "nbBike": 12,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 7,
+    "station": {
+      "dueDate": 1512658194,
+      "type": "yes",
+      "code": "15023",
+      "name": "La Motte-Picquet - Grenelle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.299244076945987,
+        "latitude": 48.848656315905245
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 37,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1513066678,
+      "type": "yes",
+      "code": "16112",
+      "name": "Chernoviz - Raynouard",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.282173218142987,
+        "latitude": 48.8569864146289
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 31,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "16104",
+      "name": "Paul-Valery - Victor-Hugo",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2887128591537476,
+        "latitude": 48.87137406080164
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 35,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1514544662,
+      "type": "yes",
+      "code": "14125",
+      "name": "Dareau - Broussais",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3361804,
+        "latitude": 48.8307758
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1512641201,
+      "type": "yes",
+      "code": "5106",
+      "name": "Cujas Saint-Michel",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.34183165485398,
+        "latitude": 48.84819134858432
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "11019",
+      "name": "Charonne - Philippe-Auguste",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.390546390619984,
+        "latitude": 48.85560316202584
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511786191,
+      "type": "yes",
+      "code": "6001",
+      "name": "Institut de France",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.335831353037739,
+        "latitude": 48.85761567856468
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514541389,
+      "type": "yes",
+      "code": "5002",
+      "name": "Sommerard - Saint-Jacques",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.345015835298588,
+        "latitude": 48.850310432924466
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1511866769,
+      "type": "yes",
+      "code": "6010",
+      "name": "Chevreuse - Montparnasse",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.331552216736739,
+        "latitude": 48.841739161230905
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1515106835,
+      "type": "yes",
+      "code": "16043",
+      "name": "Place de passy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.277500546942199,
+        "latitude": 48.85780291711202
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1515020453,
+      "type": "yes",
+      "code": "6025",
+      "name": "Assas - Rennes",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.32851454623001,
+        "latitude": 48.8492084999386
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516701960,
+      "type": "yes",
+      "code": "19110",
+      "name": "Square Claude Bernard",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.375325746834278,
+        "latitude": 48.89876016219984
+      }
+    },
+    "nbBike": 15,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 15,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 4,
+    "station": {
+      "dueDate": 1517072400,
+      "type": "yes",
+      "code": "1116",
+      "name": "Ventadour - Opéra",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.334388448251871,
+        "latitude": 48.866810653323
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 38,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "17039",
+      "name": "Place Saint-Ferdinand",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.288518047864942,
+        "latitude": 48.87815529789739
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 38
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "41605",
+      "name": "Général De Gaulle - Vivien",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.418907594723682,
+        "latitude": 48.83608867952291
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 15,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 18,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 6,
+    "station": {
+      "dueDate": 1515600000,
+      "type": "yes",
+      "code": "5105",
+      "name": "Geoffroy-Saint-Hilaire - Saint-Marcel",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.356877340669728,
+        "latitude": 48.83907826424974
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 31,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "16116",
+      "name": "George Sand - Jean de La Fontaine",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.268257387525699,
+        "latitude": 48.84986918764119
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514541257,
+      "type": "yes",
+      "code": "11112",
+      "name": "Jules Vallès - Charonne",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.384767457842827,
+        "latitude": 48.85428437993525
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1512643648,
+      "type": "yes",
+      "code": "9020",
+      "name": "Toudouze - Clauzel",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.337190639271711,
+        "latitude": 48.879505265624786
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12030",
+      "name": "Charenton - Wattignies",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.391795855555629,
+        "latitude": 48.83667579640627
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 31,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "2016",
+      "name": "Aboukir - Alexandrie",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3502444103360176,
+        "latitude": 48.868767787961765
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1516143625,
+      "type": "yes",
+      "code": "18045",
+      "name": "Pierre Ginier Clichy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.326228,
+        "latitude": 48.8867667
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 7,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1512570691,
+      "type": "yes",
+      "code": "9013",
+      "name": "Mairie du 9e",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.340753448052758,
+        "latitude": 48.87326713758289
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1512654746,
+      "type": "yes",
+      "code": "10028",
+      "name": "Gare du Nord - Dunkerque ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3527636751532555,
+        "latitude": 48.88042350842878
+      }
+    },
+    "nbBike": 24,
+    "nbEbike": 4,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 2,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15024",
+      "name": "Suffren - La Motte-Piquet",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.301293384670141,
+        "latitude": 48.85091460817171
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "1016",
+      "name": "Thérèse - Opéra",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.334433421223788,
+        "latitude": 48.86648351450895
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514775600,
+      "type": "yes",
+      "code": "14122",
+      "name": "Colonel Monteil - Brune",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.30927479982717,
+        "latitude": 48.8265029331101
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1513068290,
+      "type": "yes",
+      "code": "20104",
+      "name": "Louis Lumière ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.41112578185621,
+        "latitude": 48.86216198070008
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 4,
+    "station": {
+      "dueDate": 1512641575,
+      "type": "yes",
+      "code": "6014",
+      "name": "Pont de Lodi - Dauphine ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.339947307565249,
+        "latitude": 48.855296898603285
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 24,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 29
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20005",
+      "name": "Reynaldo Hahn - Lagny",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.412330328844772,
+        "latitude": 48.849266043601794
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "16022",
+      "name": "Jean Bologne - Passy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.280027395306772,
+        "latitude": 48.857566889784465
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "13122",
+      "name": "Parc de Choisy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.358513532903332,
+        "latitude": 48.828156251574946
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12111",
+      "name": "Claude Decaen - Cannebière",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.397253782195704,
+        "latitude": 48.83761417037952
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511866658,
+      "type": "yes",
+      "code": "12112",
+      "name": "Charenton - Jardiniers",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.394692664106047,
+        "latitude": 48.833821772922654
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15002",
+      "name": "Maine - Antoine Bourdelle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.320263946784738,
+        "latitude": 48.84308531746595
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 8,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1512653299,
+      "type": "yes",
+      "code": "10003",
+      "name": "Hauteville - Bonne Nouvelle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.349649636832728,
+        "latitude": 48.87077436024043
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15004",
+      "name": "Vaugirard - Pasteur",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3154367133975033,
+        "latitude": 48.84040868803496
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 28,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "13048",
+      "name": "Wurtz - Tolbiac",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.344301715865302,
+        "latitude": 48.82649432826404
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1511792784,
+      "type": "yes",
+      "code": "19016",
+      "name": "Hautpoul - Jean Jaurès",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.386541454435452,
+        "latitude": 48.88639367943585
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 16,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 2,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1511875679,
+      "type": "yes",
+      "code": "11022",
+      "name": "Roquette - Auguste Laurent",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.381797702650783,
+        "latitude": 48.858001906023354
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 4,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 16
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14103",
+      "name": "Maine - Liancourt",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.323731449973991,
+        "latitude": 48.835064363954
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 66,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "16027",
+      "name": "Mozart - Jasmin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.268483570651513,
+        "latitude": 48.85286124871689
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 60,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 66
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12102",
+      "name": "Bercy - Traversiére",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3703800886869435,
+        "latitude": 48.84619264257384
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266802,
+      "type": "yes",
+      "code": "19031",
+      "name": "Manin - Crimée",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3863670602440834,
+        "latitude": 48.8831217743719
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 18,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1513156270,
+      "type": "yes",
+      "code": "16017",
+      "name": "Siam - La Pompe",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.275346568555312,
+        "latitude": 48.861720329027264
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14025",
+      "name": "Jacquier - Didot",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.318179272115231,
+        "latitude": 48.82953336292279
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 5,
+    "station": {
+      "dueDate": 1511866566,
+      "type": "yes",
+      "code": "9036",
+      "name": "Athènes - Clichy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.32956021945824,
+        "latitude": 48.878113787876
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14106",
+      "name": "Marc Sangnier - Porte de Vanves",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3107116669416428,
+        "latitude": 48.825218683556734
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517180452,
+      "type": "yes",
+      "code": "15056",
+      "name": "Place Balard ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2784192115068436,
+        "latitude": 48.836395736424116
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "19029",
+      "name": "Seine - Flandre",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3746193200349808,
+        "latitude": 48.886785741479684
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1511792468,
+      "type": "yes",
+      "code": "19019",
+      "name": "Petit-Manin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.393636852502823,
+        "latitude": 48.88664067826678
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 4,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 13,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "13018",
+      "name": "Bruant - Vincent Auriol",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.366826499627087,
+        "latitude": 48.83484845292942
+      }
+    },
+    "nbBike": 13,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1515106806,
+      "type": "yes",
+      "code": "13017",
+      "name": "Nationale - Vincent Auriol",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.362354410392119,
+        "latitude": 48.83252708397293
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 31,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1511795467,
+      "type": "yes",
+      "code": "15027",
+      "name": "Duhamel - André Gide",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.312707121097412,
+        "latitude": 48.8365662244334
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 5,
+    "station": {
+      "dueDate": 1517072400,
+      "type": "yes",
+      "code": "4018",
+      "name": "Saint-Bon - Rivoli",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.350217280976349,
+        "latitude": 48.857999643314926
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "47004",
+      "name": "Maison-Alfort - Stade",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.4340999871492386,
+        "latitude": 48.8092658449553
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "11033",
+      "name": "Bréguet - Sabin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.370554639861521,
+        "latitude": 48.856870467758306
+      }
+    },
+    "nbBike": 12,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "9023",
+      "name": "Laffite - Italiens",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.337201547845077,
+        "latitude": 48.871815737396304
+      }
+    },
+    "nbBike": 13,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "9101",
+      "name": "Cadet - La Fayette",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.343570403754711,
+        "latitude": 48.87560163267239
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1511866464,
+      "type": "yes",
+      "code": "5005",
+      "name": "Gay Lussac - Saint-Jacques",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.341923944866407,
+        "latitude": 48.844730256132095
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "no",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439600,
+      "type": "yes",
+      "code": "21004",
+      "name": "Jaurès 2",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2395392,
+        "latitude": 48.8400261
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871649,
+      "type": "yes",
+      "code": "42505",
+      "name": "Charles Frérot - Albert Guilpin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3504868,
+        "latitude": 48.8157121
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266816,
+      "type": "yes",
+      "code": "42003",
+      "name": "Place de l'Insurrection d'Août 1944 ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3982112,
+        "latitude": 48.8147729
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "6008",
+      "name": "Assas - Luxembourg",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.333428381875887,
+        "latitude": 48.84373446877937
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266813,
+      "type": "yes",
+      "code": "13104",
+      "name": "Gare d'Austerlitz - Quai Saint-Bernard",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3657193,
+        "latitude": 48.843795
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 16,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514544599,
+      "type": "yes",
+      "code": "14112",
+      "name": "Méchain - Faubourg Saint-Jacques",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.33798034198275,
+        "latitude": 48.83586772099485
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 16
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 12,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266824,
+      "type": "yes",
+      "code": "20006",
+      "name": "Pyrénées- Plaine",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.406354881823063,
+        "latitude": 48.850351963764815
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 3,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 12
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517526045,
+      "type": "yes",
+      "code": "17029",
+      "name": "Pierre Demours Laugier",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.294846,
+        "latitude": 48.8813072
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 34,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871652,
+      "type": "yes",
+      "code": "17020",
+      "name": "Nicaragua",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3070717,
+        "latitude": 48.8850134
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 44,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514540638,
+      "type": "yes",
+      "code": "11101",
+      "name": "Charles Delescluze",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.380632497370243,
+        "latitude": 48.85242200848887
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 38,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 47
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12115",
+      "name": "Porte de Vincennes ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.415514,
+        "latitude": 48.846454
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 5,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "19101",
+      "name": "Square Simon Bolivar",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.382461093366146,
+        "latitude": 48.87498199631513
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "16009",
+      "name": "Saint-Didier - Raymond Poincaré",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2856544703245163,
+        "latitude": 48.866407073022586
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266852,
+      "type": "yes",
+      "code": "14004",
+      "name": "Port Royal - Hôpital Cochin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.340717874467373,
+        "latitude": 48.838373233813286
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517526015,
+      "type": "yes",
+      "code": "21305",
+      "name": "Place Jacques Madaule",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2604189068078995,
+        "latitude": 48.82380377277954
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266822,
+      "type": "yes",
+      "code": "16023",
+      "name": "Passy - Place du Costa Rica",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2839655,
+        "latitude": 48.8584893
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785211,
+      "type": "yes",
+      "code": "17102",
+      "name": "Alfred Roll - Berthier",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3000183,
+        "latitude": 48.8879035
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 47,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785225,
+      "type": "yes",
+      "code": "18109",
+      "name": "Pajol - Riquet ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3628534749150276,
+        "latitude": 48.88960028134536
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 44,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 47
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785226,
+      "type": "yes",
+      "code": "18007",
+      "name": "Goutte d'or - Barbès",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.349696233868599,
+        "latitude": 48.88512432362698
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 8,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785245,
+      "type": "yes",
+      "code": "18041",
+      "name": "Martyrs 2",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3405495658516884,
+        "latitude": 48.88219377957169
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517227200,
+      "type": "yes",
+      "code": "11024",
+      "name": "Boulevard Voltaire",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3789759,
+        "latitude": 48.858925
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 41,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 51
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785227,
+      "type": "yes",
+      "code": "11001",
+      "name": "Bastille - Richard Lenoir",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3697222,
+        "latitude": 48.8538327
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 53,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 58
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 37,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517504440,
+      "type": "yes",
+      "code": "5018",
+      "name": "Mutualité",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.350287325680256,
+        "latitude": 48.8482255727241
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785257,
+      "type": "yes",
+      "code": "15114",
+      "name": "Cotentin - Pasteur",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.316356,
+        "latitude": 48.8389284
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 31,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871645,
+      "type": "yes",
+      "code": "16021",
+      "name": "François Ponsard - La Muette ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2744515,
+        "latitude": 48.8583666
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871619,
+      "type": "yes",
+      "code": "12002",
+      "name": "Lacuée",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.370458543300628,
+        "latitude": 48.849268481958404
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 16
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266818,
+      "type": "yes",
+      "code": "22406",
+      "name": "Guy Môquet - Etienne Dolet ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2980050370097156,
+        "latitude": 48.81525695067257
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20001",
+      "name": "Place de la Nation - Charonne",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.399762385981272,
+        "latitude": 48.848364667776785
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 50,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15126",
+      "name": "Ernest Renan - Parc des Expositions",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2853584215044975,
+        "latitude": 48.83089757010408
+      }
+    },
+    "nbBike": 17,
+    "nbEbike": 4,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 51
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "19121",
+      "name": "Belleville -  Pré Saint-Gervais",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.392960787279829,
+        "latitude": 48.875518068648745
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 4,
+    "station": {
+      "dueDate": 1511866372,
+      "type": "yes",
+      "code": "11021",
+      "name": "Charonne - Pierre Bayle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.39039812238911,
+        "latitude": 48.858445054261914
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 4,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "15014",
+      "name": "Volontaires - Vaugirard",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.30808901725357,
+        "latitude": 48.84132050184004
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 31,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511866105,
+      "type": "yes",
+      "code": "15120",
+      "name": "Colonel Pierre Avia",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.275342586850291,
+        "latitude": 48.8296843300915
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514544707,
+      "type": "yes",
+      "code": "15061",
+      "name": "Square Desnouettes",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.284142297394666,
+        "latitude": 48.83476837934194
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 39,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12017",
+      "name": "Saint-Mandé - Docteur Arnold Netter",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.405099826323643,
+        "latitude": 48.84463462629767
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 39,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1512659487,
+      "type": "yes",
+      "code": "16011",
+      "name": "Victor Hugo - La Pompe",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.281477522417188,
+        "latitude": 48.86810888689743
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 34,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15050",
+      "name": "Dominique Pado - Croix Nivert",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.28976,
+        "latitude": 48.83656
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 15,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 50,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266848,
+      "type": "yes",
+      "code": "13103",
+      "name": "Saint-Marcel",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3604946,
+        "latitude": 48.8377016
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 43,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 50
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 3,
+    "station": {
+      "dueDate": 1514544772,
+      "type": "yes",
+      "code": "16016",
+      "name": "Paul Doumer - La Tour",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.280840481911055,
+        "latitude": 48.860116109626574
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 24,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 38,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "11018",
+      "name": "Saint-Maur - République",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.378317415714264,
+        "latitude": 48.86418586145509
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 38
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 34,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439657,
+      "type": "yes",
+      "code": "17009",
+      "name": "Paul Bodin - Clichy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.317142598330975,
+        "latitude": 48.89239614618928
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 34
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "6006",
+      "name": "Notre-Dame-des-Champs - Stanislas",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.329337755887181,
+        "latitude": 48.84479928858768
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "2017",
+      "name": "Caire - Dussoubs",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.349364310503006,
+        "latitude": 48.86785342111862
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517180443,
+      "type": "yes",
+      "code": "41602",
+      "name": "Place Charles Digeon",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.4183574,
+        "latitude": 48.8436239
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266835,
+      "type": "yes",
+      "code": "19010",
+      "name": "Emile Reynaud - Porte de la Villette ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3887022584676743,
+        "latitude": 48.90098953630053
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 55,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266840,
+      "type": "yes",
+      "code": "14016",
+      "name": "René Coty - Parc Montsouris",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.336124926805496,
+        "latitude": 48.82479134498032
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 51,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 56
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439640,
+      "type": "yes",
+      "code": "10012",
+      "name": "Vinaigriers - Magenta",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3593052,
+        "latitude": 48.8731167
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 16,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12027",
+      "name": "Montgallet - Charenton",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.386164927813738,
+        "latitude": 48.84264777870052
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 16
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 37,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 6,
+    "station": {
+      "dueDate": 1512656520,
+      "type": "yes",
+      "code": "12004",
+      "name": "Traversière - Ledru-Rollin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.375870111706245,
+        "latitude": 48.850735824128805
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 31,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517490120,
+      "type": "yes",
+      "code": "2020",
+      "name": "Danielle Casanova - Opéra",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3333894088864326,
+        "latitude": 48.867643242297284
+      }
+    },
+    "nbBike": 12,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 6,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "16008",
+      "name": "Galilée - Kléber",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.290781380114821,
+        "latitude": 48.86741186571367
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266847,
+      "type": "yes",
+      "code": "16013",
+      "name": "Mairie du 16e ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2769068,
+        "latitude": 48.8638487
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 34,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "no",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439645,
+      "type": "yes",
+      "code": "21001",
+      "name": "Transvaal Charles de Gaulle ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2375004,
+        "latitude": 48.848316
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516834848,
+      "type": "yes",
+      "code": "20017",
+      "name": "Saint-Blaise - Mouraud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.40869477391243,
+        "latitude": 48.85696177597818
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 25,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "5024",
+      "name": "Place Monge",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.352406606078148,
+        "latitude": 48.842764450905456
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "1017",
+      "name": "Saint-Honoré - 29 juillet",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.330567417577153,
+        "latitude": 48.86557114282421
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 40,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "7014",
+      "name": "Saint-François-Xavier",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.314633840627834,
+        "latitude": 48.85167822904787
+      }
+    },
+    "nbBike": 21,
+    "nbEbike": 5,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 42
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1516230040,
+      "type": "yes",
+      "code": "5004",
+      "name": "Saint-Jacques Val de Grâce",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3413893,
+        "latitude": 48.8417514
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "9004",
+      "name": "Gérando - Rochechouart ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.346484623849392,
+        "latitude": 48.88294340844958
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "no",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20105",
+      "name": "Benoît Frachon - République",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.415516637265682,
+        "latitude": 48.85249392793307
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1516230019,
+      "type": "yes",
+      "code": "19039",
+      "name": "Edouard Pailleron Simon Bolivar ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.374839261174202,
+        "latitude": 48.87979886049996
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 45,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "16041",
+      "name": "Versailles - Claude Terrasse",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.263834191152959,
+        "latitude": 48.84021933807409
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 37,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 45
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514761200,
+      "type": "yes",
+      "code": "20103",
+      "name": "Le Vau - Maurice Bertaux",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.411030612453627,
+        "latitude": 48.86803439043193
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1513156316,
+      "type": "yes",
+      "code": "16032",
+      "name": "Eglise d'Auteuil",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.26848387135299,
+        "latitude": 48.84749841771691
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 9,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 45,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "16029",
+      "name": "Maison de Radio-France",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.277785539627075,
+        "latitude": 48.85132886434057
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 44,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 47
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 42,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15001",
+      "name": "Gare Montparnasse - Arrivée",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.322451025247574,
+        "latitude": 48.843824243267875
+      }
+    },
+    "nbBike": 16,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 42
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266815,
+      "type": "yes",
+      "code": "11109",
+      "name": "Pierre Levée - Fontaine Timbaud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3711163550615306,
+        "latitude": 48.86632723374305
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 31,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514546526,
+      "type": "yes",
+      "code": "16105",
+      "name": "Crevaux - Bugeaud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.281149007691853,
+        "latitude": 48.870809428669546
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517439614,
+      "type": "yes",
+      "code": "6003",
+      "name": "Saint-Sulpice",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3308077827095985,
+        "latitude": 48.85165383178419
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517353224,
+      "type": "yes",
+      "code": "21303",
+      "name": "Jean Monnet - Iles",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2499841079115868,
+        "latitude": 48.823309096420495
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "4002",
+      "name": "Marché aux fleurs",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.347293309867382,
+        "latitude": 48.85522061347032
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 15,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": null,
+      "type": "yes",
+      "code": "20117",
+      "name": "Saint-Fargeau - Mortier",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.408203454302088,
+        "latitude": 48.872747269036246
+      }
+    },
+    "nbBike": 12,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 28,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1513067673,
+      "type": "yes",
+      "code": "19113",
+      "name": "Pré Saint-Gervais - Lilas",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.395985553624166,
+        "latitude": 48.87792341192515
+      }
+    },
+    "nbBike": 10,
+    "nbEbike": 4,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 46,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1513067248,
+      "type": "yes",
+      "code": "19044",
+      "name": "Grands Moulins de Pantin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.396079008206681,
+        "latitude": 48.89713005307456
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 35,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 46
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439628,
+      "type": "yes",
+      "code": "12109",
+      "name": "Mairie du 12ème",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3876759782433505,
+        "latitude": 48.84086149032458
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 24,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517439650,
+      "type": "yes",
+      "code": "6030",
+      "name": "Assas - Vaugirard",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3292413726449013,
+        "latitude": 48.848274111397586
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 33,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 15,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266806,
+      "type": "yes",
+      "code": "10025",
+      "name": "Jemmapes - Ecluses Saint-Martin ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3660067468881607,
+        "latitude": 48.87748519186726
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 5,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 7,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 15
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517266850,
+      "type": "yes",
+      "code": "19117",
+      "name": "Euryale Dehaynin - Loire",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.377336733043194,
+        "latitude": 48.88634856641677
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "9027",
+      "name": "Douai - Pierre Fontaine",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.33324121683836,
+        "latitude": 48.88229101148092
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 31,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 2,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1514454734,
+      "type": "yes",
+      "code": "19124",
+      "name": "Alexander Fleming - Belvédère",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.403179367969562,
+        "latitude": 48.881769793858254
+      }
+    },
+    "nbBike": 18,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 39,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "18015",
+      "name": "Custine - Ramey",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3469526693224907,
+        "latitude": 48.888735896947054
+      }
+    },
+    "nbBike": 11,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516834859,
+      "type": "yes",
+      "code": "15060",
+      "name": "Mondrian",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2773844,
+        "latitude": 48.8443415
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 18,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "9019",
+      "name": "Victor Massé - Jean-Baptiste Pigalle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3366955667734146,
+        "latitude": 48.88110437240003
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 16,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "13008",
+      "name": "Place d'Italie - Soeur Rosalie",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.354809472700658,
+        "latitude": 48.83199636916928
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 50,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 52
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871646,
+      "type": "yes",
+      "code": "13113",
+      "name": "Vistule-Choisy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3615723848342896,
+        "latitude": 48.82365543660611
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517266833,
+      "type": "yes",
+      "code": "5003",
+      "name": "Le Goff - Gay-Lussac",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3412207886576653,
+        "latitude": 48.8461024009786
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "yes",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1514546560,
+      "type": "yes",
+      "code": "16102",
+      "name": "Pergolèse - Marbeau",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.281512522529856,
+        "latitude": 48.87356870686902
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1511786277,
+      "type": "yes",
+      "code": "10033",
+      "name": "Gare du Nord - Saint-Vincent de Paul",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.352430514838522,
+        "latitude": 48.88095574164779
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20029",
+      "name": "Frères Flavien - Porte des Lilas",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.41104629853209,
+        "latitude": 48.8780992764359
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14019",
+      "name": "Sarrette - Général Leclerc",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.326412869398186,
+        "latitude": 48.82503085292528
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 21,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516230005,
+      "type": "yes",
+      "code": "4003",
+      "name": "Quai aux Fleurs - Pont Saint-Louis",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.352195717394352,
+        "latitude": 48.85291595620935
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 42,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 2,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "22402",
+      "name": "Jean Jaurès - Salvador Allende",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.302899459965933,
+        "latitude": 48.82146007977343
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 41,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 42
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 30,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20045",
+      "name": "Louis Ganne - Davout",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.409725748002529,
+        "latitude": 48.86338720692607
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12022",
+      "name": "Bizot",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.4044444784522057,
+        "latitude": 48.840872964793355
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 29,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "21016",
+      "name": "Point du Jour - Jean Jaurès",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.245911467014621,
+        "latitude": 48.828753141436465
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14027",
+      "name": "Gergovie - Alésia",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.318882101207347,
+        "latitude": 48.83088717455243
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 33,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 62,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "12108",
+      "name": "Bercy",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.378862574696541,
+        "latitude": 48.83996691499447
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 51,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 62
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "13037",
+      "name": "Ivry - Baudricourt",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.363106073577468,
+        "latitude": 48.824695995415006
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "13114",
+      "name": "Nationale - Marcel Duchamp",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3678014799952507,
+        "latitude": 48.82463749337136
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 18,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "14116",
+      "name": "Romain Rolland",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.323100119829178,
+        "latitude": 48.820317315123404
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 56,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "19001",
+      "name": "Crimée - Ourcq",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.372946088467279,
+        "latitude": 48.894104140316266
+      }
+    },
+    "nbBike": 14,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 39,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 56
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "21707",
+      "name": "Square Etienne Jarousse",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2925933450460434,
+        "latitude": 48.82485182597129
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 45,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15064",
+      "name": "Javel - André Citroen",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2786368057131767,
+        "latitude": 48.846276485475
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 39,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 45
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 26,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "16118",
+      "name": "Michel-Ange - Parent de Rosan",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.258373658198948,
+        "latitude": 48.840610399663696
+      }
+    },
+    "nbBike": 13,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 13,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 26
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "21110",
+      "name": "Parc Roger Salengro",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3107485473155975,
+        "latitude": 48.90544710468085
+      }
+    },
+    "nbBike": 21,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 29,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20024",
+      "name": "Gambetta - Père Lachaise",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.398228667282044,
+        "latitude": 48.864295696165875
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 24,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "20118",
+      "name": "Orteaux - Mouraud",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.408762907764669,
+        "latitude": 48.85558642847872
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 1,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "17047",
+      "name": "Courcelles - Pierre Demours",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.29858466343129,
+        "latitude": 48.883769733273496
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "15026",
+      "name": "Bir Hakeim",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.289705348222022,
+        "latitude": 48.853844054333514
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 28,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1516921237,
+      "type": "yes",
+      "code": "5014",
+      "name": "Jean Calvin - Tournefort",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.348489575088024,
+        "latitude": 48.84158856925782
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871613,
+      "type": "yes",
+      "code": "20012",
+      "name": "Buzenval-Vignoles",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.400004081428051,
+        "latitude": 48.85385817168762
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 10,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871620,
+      "type": "yes",
+      "code": "20011",
+      "name": "Pyrénées-Dagorno",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.4051643162965775,
+        "latitude": 48.855425770695085
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 22,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871657,
+      "type": "yes",
+      "code": "18101",
+      "name": "Championnet",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3498166,
+        "latitude": 48.8953643
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 22
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871636,
+      "type": "yes",
+      "code": "13038",
+      "name": "Choisy - Malmaisons",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3633962869644165,
+        "latitude": 48.82210119146052
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517871617,
+      "type": "yes",
+      "code": "09014",
+      "name": "Faubourg Montmartre",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.340853661298752,
+        "latitude": 48.87525454905335
+      }
+    },
+    "nbBike": 14,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 37,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517443200,
+      "type": "yes",
+      "code": "1022",
+      "name": "Danielle Casanova - Place Vendôme",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3304839059710503,
+        "latitude": 48.86826649822326
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 33,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518044412,
+      "type": "no",
+      "code": "6002",
+      "name": "Saint-Pères",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3334722220897675,
+        "latitude": 48.85545136013941
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 62,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130805,
+      "type": "no",
+      "code": "15008",
+      "name": "Sèvres - Lecourbe",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3110086,
+        "latitude": 48.8447677
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 59,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 62
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130824,
+      "type": "no",
+      "code": "11030",
+      "name": "Saint Maur Oberkampf",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3760261,
+        "latitude": 48.8654533
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130810,
+      "type": "no",
+      "code": "15020",
+      "name": "Mairie du 15ème",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2986539,
+        "latitude": 48.8417762
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 24,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 54,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130845,
+      "type": "no",
+      "code": "15055",
+      "name": "Vasco de Gama",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2838488,
+        "latitude": 48.8368326
+      }
+    },
+    "nbBike": 6,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 47,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 53
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1530313200,
+      "type": "no",
+      "code": "7026",
+      "name": "Place de Finlande",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.311362437903881,
+        "latitude": 48.86240833596654
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 30,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 32
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130827,
+      "type": "no",
+      "code": "5029",
+      "name": "Port Royal",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3373573,
+        "latitude": 48.8400881
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 30
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518130828,
+      "type": "no",
+      "code": "5028",
+      "name": "Censier-Buffon",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.355475388467312,
+        "latitude": 48.84107178161383
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 50,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 55
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517785219,
+      "type": "yes",
+      "code": "8034",
+      "name": "Haussmann - Courcelles",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3082953318953514,
+        "latitude": 48.874746047357135
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 26,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 31
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519776000,
+      "type": "yes",
+      "code": "10034",
+      "name": "Louis Blanc - La Chapelle",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.360053088985318,
+        "latitude": 48.88384931844148
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 21
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 1,
+    "station": {
+      "dueDate": 1519776000,
+      "type": "no",
+      "code": "10039",
+      "name": "Sambre et Meuse - Villette",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.373807237995119,
+        "latitude": 48.87440566621717
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 21,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518390018,
+      "type": "no",
+      "code": "12037",
+      "name": "Daumesnil ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3972516,
+        "latitude": 48.8395385
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 35,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1530313200,
+      "type": "yes",
+      "code": "6024",
+      "name": "Saint-Germain-Des-Près",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3301298543810844,
+        "latitude": 48.85382662507373
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 44,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518390043,
+      "type": "no",
+      "code": "02021",
+      "name": "Cléry-Montmartre",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3445211,
+        "latitude": 48.867458
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 42,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 44
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 43,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518476450,
+      "type": "no",
+      "code": "8001",
+      "name": "Petit Palais",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3157655,
+        "latitude": 48.8667692
+      }
+    },
+    "nbBike": 14,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 43
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518476440,
+      "type": "no",
+      "code": "20037",
+      "name": "Gambetta - Saint Fargeau",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.403994,
+        "latitude": 48.8710081
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 33,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517922000,
+      "type": "no",
+      "code": "14101",
+      "name": "Place Fernand Mourlot",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3231524229049683,
+        "latitude": 48.84169007260922
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 33,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 33
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518476434,
+      "type": "no",
+      "code": "8025",
+      "name": "Miromesnil",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.315848097205162,
+        "latitude": 48.87372241291653
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 33,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519776000,
+      "type": "yes",
+      "code": "13106",
+      "name": "Bobillot - Mery",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.35424653463425,
+        "latitude": 48.82987537265954
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518476450,
+      "type": "no",
+      "code": "13023",
+      "name": "Bobillot Verlaine",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3533105105161667,
+        "latitude": 48.82856265867148
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 28
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 17,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518476413,
+      "type": "no",
+      "code": "8010",
+      "name": "Liège",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3264628,
+        "latitude": 48.8795431
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 17
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "no",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519776000,
+      "type": "yes",
+      "code": "12039",
+      "name": "Général Michel Bizot - Claude Decaen",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.400927788127704,
+        "latitude": 48.83481262982544
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 35,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 38
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 38,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518562815,
+      "type": "no",
+      "code": "8037",
+      "name": "Malesherbes Monceau ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3145456,
+        "latitude": 48.8795079
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 36,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 38
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518562850,
+      "type": "no",
+      "code": "18012",
+      "name": "Stephenson - Doudeauville",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3561610281467438,
+        "latitude": 48.888537048944826
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 32,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 36
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518649247,
+      "type": "no",
+      "code": "11011",
+      "name": "Boulevard Richard Lenoir",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3727569,
+        "latitude": 48.8618517
+      }
+    },
+    "nbBike": 3,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 22,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 29,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518649230,
+      "type": "no",
+      "code": "09017",
+      "name": "Lallier - Trudaine ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3408224806189537,
+        "latitude": 48.88109246617963
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 29
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 66,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518098400,
+      "type": "yes",
+      "code": "6026",
+      "name": "Saint-Placide Cherche Midi",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.325317971408367,
+        "latitude": 48.8490535919234
+      }
+    },
+    "nbBike": 14,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 52,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 66
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518649207,
+      "type": "no",
+      "code": "13116",
+      "name": "Place du Docteur Yersin",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3725583776831627,
+        "latitude": 48.82010494991975
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 50,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 50
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 18,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518649250,
+      "type": "no",
+      "code": "19027",
+      "name": "Serrurier ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.39806417375803,
+        "latitude": 48.8804934032465
+      }
+    },
+    "nbBike": 9,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 8,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 18
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 48,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735611,
+      "type": "no",
+      "code": "14018",
+      "name": "Porte d'Orléans",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3249313,
+        "latitude": 48.8227639
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 39,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 48
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735655,
+      "type": "no",
+      "code": "11020",
+      "name": "Charonne",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3829901,
+        "latitude": 48.8563358
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 39,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 25,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735629,
+      "type": "no",
+      "code": "21010",
+      "name": "Silly",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.2323452308773994,
+        "latitude": 48.8353326972527
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 3,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 25
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 39,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518174000,
+      "type": "no",
+      "code": "14127",
+      "name": "Odessa",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3244281485676765,
+        "latitude": 48.842885590080826
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 37,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 39
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735653,
+      "type": "no",
+      "code": "18039",
+      "name": "Eole",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3668488,
+        "latitude": 48.8869703
+      }
+    },
+    "nbBike": 5,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 14,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 35,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735650,
+      "type": "no",
+      "code": "18026",
+      "name": "Ruisseau - Ordener ",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.340144887566567,
+        "latitude": 48.89299462568024
+      }
+    },
+    "nbBike": 7,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 28,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 48,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518735640,
+      "type": "no",
+      "code": "17040",
+      "name": "Ternes Pereire",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.288012132048607,
+        "latitude": 48.87973954830735
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 45,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 48
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 32,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518994800,
+      "type": "no",
+      "code": "4017",
+      "name": "Place de l'hôtel de Ville",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.351458,
+        "latitude": 48.8573314
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 12,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 14
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 0,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519776000,
+      "type": "yes",
+      "code": "20014",
+      "name": "Charonne - Alexandre Dumas",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.39490886,
+        "latitude": 48.85599402
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 0,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 0
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519081247,
+      "type": "no",
+      "code": "18018",
+      "name": "Carpeaux - Place Jacques Froment",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3309428,
+        "latitude": 48.8906542
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 19,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 19,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519081251,
+      "type": "no",
+      "code": "18110",
+      "name": "Departement",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3613611608743668,
+        "latitude": 48.886674849730184
+      }
+    },
+    "nbBike": 2,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 17,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 19
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 20,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519081232,
+      "type": "no",
+      "code": "9007",
+      "name": "Condorcet-Turgot",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.345232367515564,
+        "latitude": 48.87985155789093
+      }
+    },
+    "nbBike": 8,
+    "nbEbike": 1,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 11,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 20
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 24,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519772417,
+      "type": "yes",
+      "code": "20034",
+      "name": "Sorbier-Ménilmontant",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3897721245884895,
+        "latitude": 48.86854239566069
+      }
+    },
+    "nbBike": 4,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 20,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 24
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 37,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519081209,
+      "type": "no",
+      "code": "6104",
+      "name": "Herschel",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3376645147800446,
+        "latitude": 48.84342376221923
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 37,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 37
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 42,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167659,
+      "type": "no",
+      "code": "19002",
+      "name": "Tanger",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3707854375243187,
+        "latitude": 48.88933353845543
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 42,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 42
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 58,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167649,
+      "type": "no",
+      "code": "11036",
+      "name": "Jules Ferry - Faubourg du Temple Paris",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3678933,
+        "latitude": 48.868397
+      }
+    },
+    "nbBike": 1,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 57,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 58
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 27,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167652,
+      "type": "no",
+      "code": "08033",
+      "name": "Saint-Philippe du Roule",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.309796,
+        "latitude": 48.872933
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 27,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 27
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 53,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167620,
+      "type": "no",
+      "code": "13054",
+      "name": "Pau Casals",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3774395,
+        "latitude": 48.8311602
+      }
+    },
+    "nbBike": 26,
+    "nbEbike": 2,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 52
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 36,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167658,
+      "type": "no",
+      "code": "12016",
+      "name": "Picpus",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.4014368,
+        "latitude": 48.8451604
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 35,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 35
+  },
+  {
+    "densityLevel": 0,
+    "maxBikeOverflow": 52,
+    "overflowActivation": "no",
+    "overflow": "yes",
+    "kioskState": "yes",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1517356800,
+      "type": "yes",
+      "code": "18019",
+      "name": "Square Raymond Souplex",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3355770856142044,
+        "latitude": 48.89197048293557
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 52,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 52
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 23,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1519167638,
+      "type": "no",
+      "code": "08103",
+      "name": "D'artois Berry",
+      "state": "Operative",
+      "gps": {
+        "longitude": 2.3064258322119713,
+        "latitude": 48.87393521240818
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 23,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 23
+  },
+  {
+    "densityLevel": 1,
+    "maxBikeOverflow": 14,
+    "overflowActivation": "yes",
+    "overflow": "yes",
+    "kioskState": "no",
+    "nbEBikeOverflow": 0,
+    "nbBikeOverflow": 0,
+    "station": {
+      "dueDate": 1518613200,
+      "type": "no",
+      "code": "",
+      "name": "Mairie du 8ème ",
+      "state": "Work in progress",
+      "gps": {
+        "longitude": 2.3070946,
+        "latitude": 48.8740293
+      }
+    },
+    "nbBike": 0,
+    "nbEbike": 0,
+    "nbFreeDock": 0,
+    "nbFreeEDock": 0,
+    "creditCard": "no",
+    "nbDock": 0,
+    "nbEDock": 0
+  }
+]

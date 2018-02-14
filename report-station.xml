@@ -1,0 +1,17 @@
+<?xml version='1.0' ?>
+
+<t:chloe xmlns:t="http://factorcode.org/chloe/1.0">
+
+	<t:title>New Report</t:title>
+
+	<t:form t:action="$velibwatch-app/report-station">
+		<table>
+			<tr><th class="field-label">Station: </th><td><t:field t:name="station" /></td></tr>
+			<tr><th class="field-label">Type: </th><td><t:field t:name="type" /></td></tr>
+			<tr><th class="field-label">Username: </th><td><t:field t:name="username" /></td></tr>
+		</table>
+
+		<input type="SUBMIT" value="Done" />
+	</t:form>
+
+</t:chloe>
