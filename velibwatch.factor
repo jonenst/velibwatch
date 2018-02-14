@@ -61,13 +61,7 @@ TUPLE: velibwatch-app < dispatcher ;
             insert-tuple "/consult" <redirect>
         ] >>submit ;
 
-! Deployment example
-USING: db.sqlite furnace.alloy namespaces ;
-
-: velibwatch-db ( -- db ) "velibwatch.db" <sqlite-db> ;
-
 : <velibwatch-app> ( -- responder )
-    velibwatch-db [ report ensure-table ] with-db
     velibwatch-app new-dispatcher
         <home-action> "" add-responder
         <consult-action> "consult" add-responder
@@ -78,10 +72,18 @@ USING: db.sqlite furnace.alloy namespaces ;
         { velibwatch-app "velibwatch" } >>template
 ;
 
+! Deployment example
+USING: db.sqlite furnace.alloy namespaces ;
+
+: velibwatch-db ( -- db ) "velibwatch.db" <sqlite-db> ;
+
+: init-velibwatch-db ( db -- )
+    [ report ensure-table ] with-db ;
 
 : run-velibwatch ( -- )
     <velibwatch-app>
-        velibwatch-db <alloy>
+        velibwatch-db
+        [ init-velibwatch-db ] [ <alloy> ] bi
         main-responder set-global
     8080 httpd drop ;
 
