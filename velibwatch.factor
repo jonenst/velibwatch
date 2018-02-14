@@ -1,19 +1,20 @@
 ! Copyright (C) 2008 Slava Pestov.
 ! See http://factorcode.org/license.txt for BSD license.
-USING: accessors assocs db db.sqlite db.tuples db.types
+USING: accessors assocs calendar db db.sqlite db.tuples db.types
 furnace.actions furnace.alloy furnace.boilerplate
 furnace.redirection html.forms http.server
 http.server.dispatchers io.encodings.utf8 io.files json.reader
 kernel namespaces regexp sequences validators ;
 IN: velibwatch
 
-TUPLE: report id station type username ;
+TUPLE: report id station type timestamp username ;
 
 report "REPORT"
 {
     { "id" "ID" +db-assigned-id+ }
     { "station" "STATION" { VARCHAR 256 } }
     { "type" "TYPE" { VARCHAR 256 } }
+    { "timestamp" "TIMESTAMP" TIMESTAMP }
     { "username" "USERNAME" { VARCHAR 256 } }
 } define-persistent
 
@@ -57,7 +58,7 @@ TUPLE: velibwatch-app < dispatcher ;
         [
             report new
             dup { "station" "type" "username" } to-object
-            [ "" or ] change-username
+            [ "" or ] change-username now >>timestamp
             insert-tuple "/consult" <redirect>
         ] >>submit ;
 

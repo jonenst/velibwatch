@@ -9,6 +9,7 @@
 		<tr>
 			<th>station</th>
 			<th>type</th>
+			<th>timestamp</th>
 			<th>username</th>
 		</tr>
 
@@ -20,6 +21,9 @@
 				</td>
 				<td>
 					<t:label t:name="type" />
+				</td>
+				<td>
+					<t:label t:name="timestamp" />
 				</td>
 				<td>
 					<t:label t:name="username" />
