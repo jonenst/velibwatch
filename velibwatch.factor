@@ -1,7 +1,7 @@
 ! Copyright (C) 2008 Slava Pestov.
 ! See http://factorcode.org/license.txt for BSD license.
 USING: accessors assocs calendar db db.sqlite db.tuples db.types
-furnace.actions furnace.alloy furnace.boilerplate
+furnace.actions furnace.alloy furnace.boilerplate furnace.json
 furnace.redirection html.forms http.server
 http.server.dispatchers io.encodings.utf8 io.files json.reader
 kernel namespaces regexp sequences validators ;
@@ -43,6 +43,10 @@ TUPLE: velibwatch-app < dispatcher ;
     <page-action>
         { velibwatch-app "home" } >>template ;
 
+: <stations-action> ( -- action )
+    <action>
+         [ stations <json-content> ] >>display ;
+
 : <consult-action> ( -- action )
     <page-action>
         [ report new select-tuples "reports" set-value ] >>init
@@ -65,6 +69,7 @@ TUPLE: velibwatch-app < dispatcher ;
 : <velibwatch-app> ( -- responder )
     velibwatch-app new-dispatcher
         <home-action> "" add-responder
+        <stations-action> "stations.json" add-responder
         <consult-action> "consult" add-responder
         <detail-action> "detail" add-responder
         <report-action> "report" add-responder

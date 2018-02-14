@@ -14,4 +14,38 @@
 		<input type="SUBMIT" value="Done" />
 	</t:form>
 
+        <script
+        src="http://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+        <script
+        src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+        integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+        crossorigin="anonymous"></script>
+        <script>
+          var link = document.createElement('link');
+          link.setAttribute('rel', 'stylesheet');
+          link.setAttribute('type', 'text/css');
+          link.setAttribute('href', 'http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css');
+          document.getElementsByTagName('head')[0].appendChild(link);
+          $( function() {
+            $.getJSON( "stations.json", function( data ) {
+              var autocomplete_data = data.map(function(e) {
+                return {
+                  "value": e.station.code,
+                  "label": e.station.code + " - " + e.station.name
+                };
+              }).sort(function (a, b) {
+                return a.value.localeCompare(b.value);
+              });
+              $( "input[name=station]" ).autocomplete({
+                source: function(request, response) {
+                  response(autocomplete_data.filter(function(el) {
+                        return el.value.startsWith(request.term);
+                  }));
+                }
+              });
+            });
+          } );
+        </script>
 </t:chloe>
