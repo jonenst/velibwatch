@@ -2,22 +2,20 @@
 
 <t:chloe xmlns:t="http://factorcode.org/chloe/1.0">
 
-	<t:title>New Report</t:title>
+	<t:title>Signalement</t:title>
+
+    <p>Signaler une station qui marche ou ne marche pas</p>
 
 	<t:form t:action="$velibwatch-app/report-station">
 		<table>
 			<tr><th class="field-label">Station: </th><td><t:field t:name="station" /></td></tr>
 			<tr><th class="field-label">Type: </th><td><t:field t:name="type" /></td></tr>
-			<tr><th class="field-label">Username: </th><td><t:field t:name="username" /></td></tr>
+			<tr><th class="field-label">Username: </th><td><t:field t:name="username" /></td><th class="field-label"> (Optionel)</th></tr>
 		</table>
 
-		<input type="SUBMIT" value="Done" />
+		<input type="SUBMIT" value="Envoyer" />
 	</t:form>
 
-        <script
-        src="http://code.jquery.com/jquery-3.3.1.min.js"
-        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-        crossorigin="anonymous"></script>
         <script
         src="http://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
         integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="

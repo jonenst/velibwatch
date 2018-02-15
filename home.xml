@@ -3,11 +3,8 @@
 <t:chloe xmlns:t="http://factorcode.org/chloe/1.0">
 
 	<t:title>VelibWatch</t:title>
-
-    <t:a t:href="$velibwatch-app/consult/" >
-        Je consulte
-    </t:a>
-    <t:a t:href="$velibwatch-app/report/" >
-        Je signale
-    </t:a>
+    <div class="jumbotron">
+      <h1 class="display-4">VelibWatch</h1>
+      <p class="lead">Signaler et consulter la liste des stations Velib' vraiment opérationnelles</p>
+    </div>
 </t:chloe>
