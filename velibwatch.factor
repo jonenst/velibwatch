@@ -57,6 +57,7 @@ TUPLE: velibwatch-app < dispatcher ;
     <home-action> ;
 : <report-station-action> ( -- action )
     <page-action>
+        [ { "" "ok" "ko" } "types" set-value ] >>init
         [ validate-report ] >>validate
         { velibwatch-app "report-station" } >>template
         [
