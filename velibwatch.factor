@@ -92,6 +92,8 @@ USING: db.sqlite furnace.alloy namespaces ;
         velibwatch-db
         [ init-velibwatch-db ] [ <alloy> ] bi
         main-responder set-global
-    8080 httpd drop ;
+    8081 local-server httpd drop
+    { { 8081 80 } } port-remapping set-global
+ ;
 
 MAIN: run-velibwatch
