@@ -28,7 +28,7 @@
           document.getElementsByTagName('head')[0].appendChild(link);
           $( function() {
             $.getJSON( "stations.json", function( data ) {
-              var autocomplete_data = data.map(function(e) {
+              var autocomplete_codes = data.map(function(e) {
                 return {
                   "value": e.station.code,
                   "label": e.station.code + " - " + e.station.name
@@ -36,11 +36,24 @@
               }).sort(function (a, b) {
                 return a.value.localeCompare(b.value);
               });
+              var autocomplete_names = data.map(function(e) {
+                return {
+                  "value": e.station.name,
+                  "label": e.station.code + " - " + e.station.name
+                };
+              }).sort(function (a, b) {
+                return a.value.localeCompare(b.value);
+              });
               $( "input[name=station]" ).autocomplete({
                 source: function(request, response) {
-                  response(autocomplete_data.filter(function(el) {
-                        return el.value.startsWith(request.term);
-                  }));
+                  response(
+                      autocomplete_codes.filter(function(el) {
+                          return el.value.startsWith(request.term);
+                      }).concat(
+                      autocomplete_names.filter(function(el) {
+                          return el.value.toLowerCase().includes(request.term.toLowerCase());
+                      }))
+                  );
                 }
               });
             });
