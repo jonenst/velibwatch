@@ -3,8 +3,9 @@
 USING: accessors assocs calendar db db.sqlite db.tuples db.types
 furnace.actions furnace.alloy furnace.boilerplate furnace.json
 furnace.redirection html.forms http.server
-http.server.dispatchers io.encodings.utf8 io.files json.reader
-kernel namespaces regexp sequences validators ;
+http.server.dispatchers http.server.remapping io.encodings.utf8
+io.files io.servers json.reader kernel namespaces regexp
+sequences validators ;
 IN: velibwatch
 
 TUPLE: report id station type timestamp username ;
@@ -41,6 +42,12 @@ TUPLE: velibwatch-app < dispatcher ;
 
 : <home-action> ( -- action )
     <page-action>
+        [
+          stations length "stations-count" set-value
+          report new count-tuples "reports-count" set-value
+          report new select-tuples
+          [ station>> ] collect-by keys length "report-stations-count" set-value
+        ] >>init
         { velibwatch-app "home" } >>template ;
 
 : <stations-action> ( -- action )

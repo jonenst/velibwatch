@@ -6,5 +6,6 @@
     <div class="jumbotron">
       <h1 class="display-4">VelibWatch</h1>
       <p class="lead">Signaler et consulter la liste des stations Velib' vraiment opérationnelles</p>
+      <p><t:label t:name="reports-count"/> signalements sur <t:label t:name="report-stations-count"/> stations (Total velib : <t:label t:name="stations-count"/> stations)</p>
     </div>
 </t:chloe>
