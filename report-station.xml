@@ -10,7 +10,7 @@
 		<table>
 			<tr><th class="field-label">Station: </th><td><t:field t:name="station" /></td></tr>
 			<tr><th class="field-label">Type: </th><td><t:choice t:choices="types" t:name="type" /></td></tr>
-			<tr><th class="field-label">Username: </th><td><t:field t:name="username" /></td><th class="field-label"> (Optionel)</th></tr>
+			<tr><th class="field-label">Username: </th><td><t:field t:name="username" /></td><th class="field-label"> (Optionnel)</th></tr>
 		</table>
 
 		<input type="SUBMIT" value="Envoyer" />
