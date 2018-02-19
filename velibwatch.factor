@@ -56,7 +56,13 @@ TUPLE: velibwatch-app < dispatcher ;
 
 : <consult-action> ( -- action )
     <page-action>
-        [ report new select-tuples "reports" set-value ] >>init
+        [
+          <query>
+            report new >>tuple
+            "timestamp desc" >>order
+          select-tuples
+          "reports" set-value
+        ] >>init
         { velibwatch-app "consult" } >>template ;
 : <detail-action> ( -- action )
     <home-action> ;
