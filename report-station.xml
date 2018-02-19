@@ -31,14 +31,7 @@
               var autocomplete_codes = data.map(function(e) {
                 return {
                   "value": e.station.code,
-                  "label": e.station.code + " - " + e.station.name
-                };
-              }).sort(function (a, b) {
-                return a.value.localeCompare(b.value);
-              });
-              var autocomplete_names = data.map(function(e) {
-                return {
-                  "value": e.station.name,
+                  "name": e.station.name,
                   "label": e.station.code + " - " + e.station.name
                 };
               }).sort(function (a, b) {
@@ -50,8 +43,8 @@
                       autocomplete_codes.filter(function(el) {
                           return el.value.startsWith(request.term);
                       }).concat(
-                      autocomplete_names.filter(function(el) {
-                          return el.value.toLowerCase().includes(request.term.toLowerCase());
+                      autocomplete_codes.filter(function(el) {
+                          return el.name.toLowerCase().includes(request.term.toLowerCase());
                       }))
                   );
                 }
